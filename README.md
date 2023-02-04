@@ -20,7 +20,7 @@ The game consists of a 3x3 grid and two players, who take turns marking spaces o
   
 - ### Two player gameplay: Players take turns marking spaces on the grid with either an 'X' or an 'O'.
   
-- ###3x3 grid: The game is played on a 3x3 grid.
+- ### 3x3 grid: The game is played on a 3x3 grid.
   
 - ### Winning conditions: A player wins the game if they place three of their symbols in a row, either horizontally, vertically, or diagonally.
   
@@ -28,6 +28,6 @@ The game consists of a 3x3 grid and two players, who take turns marking spaces o
   
 - ### Error handling: The game detects and handles errors such as when a player selects a space that is already occupied.
 
-Author:-
+# Author:-
   
-  ASHISH GARG 
+- ## ASHISH GARG 
